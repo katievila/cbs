@@ -1,2 +1,3 @@
 I am adding Katie Vila to the project
 adding substandard things...
+and now adding "me too" per the comment posted on my pull request
